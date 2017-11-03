@@ -1,0 +1,5 @@
+pip install pyinstaller
+
+pyinstaller  -F -w --clean arquivo.py -i arquivo.ico
+
+nodistribute.com
